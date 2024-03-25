@@ -47,7 +47,7 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ludvikcruz/ludvikcruz/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ludvikcruz/ludvikcruz/blob/output/github-contribution-grid-snake.svg">
-  <img alt="git hub Snack" src="https://github.com/ludvikcruz/ludvikcruz/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/esquilo2233/esquilo2233/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/esquilo2233/esquilo2233/blob/output/github-contribution-grid-snake.svg">
+  <img alt="git hub Snack" src="https://github.com/esquilo2233/esquilo2233/blob/output/github-contribution-grid-snake.svg">
 </picture>
