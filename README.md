@@ -2,7 +2,7 @@
 <p>I like web development in react and interest in mobile development with react-native.</p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ludvikcruz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_rank=true" alt="Status Henry" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=esquilo2233&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_rank=true" alt="Status esquilo2233" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquilo2233&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
 
